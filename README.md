@@ -13,10 +13,9 @@
   <img align="right" alt="Paulo-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/96534390/153654257-ba1cd089-559c-4df0-b681-d2e3ce1f0ac6.gif">
 </div>
   
-##
+
   
   <div>
-
-    <a href=https://www.linkedin.com/in/nikolas-oliveira-960279172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nikolas-oliveira-960279172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "nikolas_081@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
  </div>
